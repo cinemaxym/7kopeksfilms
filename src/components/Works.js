@@ -169,16 +169,16 @@ const worksData = [
         videoUrl: 'https://player.vimeo.com/video/88872867?h=4a3f127ac5',
         aspectRatio: '4-3'
     },
-    {
-        id: 17,
-        image: require('../images/sneg.jpg'),
-        alt: 'Olga Makovetskaya',
-        artist: 'Olga Makovetskaya',
-        title: 'The Snow',
-        director: 'Hindrek Maasik',
-        videoUrl: 'https://www.youtube.com/embed/T69hDTOUvLM',
-        aspectRatio: '4-3'
-    },
+    // {
+    //     id: 17,
+    //     image: require('../images/sneg.jpg'),
+    //     alt: 'Olga Makovetskaya',
+    //     artist: 'Olga Makovetskaya',
+    //     title: 'The Snow',
+    //     director: 'Hindrek Maasik',
+    //     videoUrl: 'https://www.youtube.com/embed/T69hDTOUvLM',
+    //     aspectRatio: '4-3'
+    // },
     // {
     //     id: 18,
     //     image: require('../images/jamala_osen.jpg'),
@@ -209,16 +209,16 @@ const worksData = [
         videoUrl: 'https://www.youtube.com/embed/xlnGZihYHXU',
         aspectRatio: '4-3'
     },
-    {
-        id: 21,
-        image: require('../images/brosay.jpg'),
-        alt: 'Alina Grosu',
-        artist: 'Alina Grosu',
-        title: "Let Go",
-        director: 'Hindrek Maasik',
-        videoUrl: 'https://www.youtube.com/embed/2h3ToedfURc',
-        aspectRatio: '4-3'
-    }
+    // {
+    //     id: 21,
+    //     image: require('../images/brosay.jpg'),
+    //     alt: 'Alina Grosu',
+    //     artist: 'Alina Grosu',
+    //     title: "Let Go",
+    //     director: 'Hindrek Maasik',
+    //     videoUrl: 'https://www.youtube.com/embed/2h3ToedfURc',
+    //     aspectRatio: '4-3'
+    // }
 ]
 
 
