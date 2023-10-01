@@ -59,16 +59,16 @@ const worksData = [
         videoUrl: 'https://www.youtube.com/embed/8fVwK7yx0Xo',
         aspectRatio: '4-3'
     },
-    {
-        id: 6,
-        image: require('../images/Tina_1.jpg'),
-        alt: 'Tina Karol',
-        artist: 'Tina Karol',
-        title: "I Won't Stop",
-        director: 'Gloria FX',
-        videoUrl: 'https://www.youtube.com/embed/3_28U9MP5PI',
-        aspectRatio: '4-3'
-    },
+    // {
+    //     id: 6,
+    //     image: require('../images/Tina_1.jpg'),
+    //     alt: 'Tina Karol',
+    //     artist: 'Tina Karol',
+    //     title: "I Won't Stop",
+    //     director: 'Gloria FX',
+    //     videoUrl: 'https://www.youtube.com/embed/3_28U9MP5PI',
+    //     aspectRatio: '4-3'
+    // },
     {
         id: 7,
         image: require('../images/Tina_Rain.jpg'),
@@ -79,16 +79,16 @@ const worksData = [
         videoUrl: 'https://www.youtube.com/embed/kofjCoxrOrs',
         aspectRatio: '4-3'
     },
-    {
-        id: 8,
-        image: require('../images/korolev.jpg'),
-        alt: 'Korolev',
-        artist: 'Dmitry Korolev',
-        title: 'The Sky To Us',
-        director: 'Stanislav Morozov',
-        videoUrl: 'https://www.youtube.com/embed/GjcNNCFBf-A',
-        aspectRatio: '16-9'
-    },
+    // {
+    //     id: 8,
+    //     image: require('../images/korolev.jpg'),
+    //     alt: 'Korolev',
+    //     artist: 'Dmitry Korolev',
+    //     title: 'The Sky To Us',
+    //     director: 'Stanislav Morozov',
+    //     videoUrl: 'https://www.youtube.com/embed/GjcNNCFBf-A',
+    //     aspectRatio: '16-9'
+    // },
     {
         id: 9,
         image: require('../images/TinaKarol_Blindfold.jpg'),
@@ -109,16 +109,16 @@ const worksData = [
         videoUrl: 'https://www.youtube.com/embed/krMhlg0I4RM',
         aspectRatio: '4-3'
     },
-    {
-        id: 11,
-        image: require('../images/katya.png'),
-        alt: 'Katya',
-        artist: 'Katya',
-        title: 'Autumn',
-        director: 'Hindrek Maasik',
-        videoUrl: 'https://www.youtube.com/embed/4HSaaL58irg',
-        aspectRatio: '16-9'
-    },
+    // {
+    //     id: 11,
+    //     image: require('../images/katya.png'),
+    //     alt: 'Katya',
+    //     artist: 'Katya',
+    //     title: 'Autumn',
+    //     director: 'Hindrek Maasik',
+    //     videoUrl: 'https://www.youtube.com/embed/4HSaaL58irg',
+    //     aspectRatio: '16-9'
+    // },
     {
         id: 12,
         image: require('../images/sdatsya.jpg'),
@@ -179,16 +179,16 @@ const worksData = [
         videoUrl: 'https://www.youtube.com/embed/T69hDTOUvLM',
         aspectRatio: '4-3'
     },
-    {
-        id: 18,
-        image: require('../images/jamala_osen.jpg'),
-        alt: 'Jamala',
-        artist: 'Jamala',
-        title: 'Depends On You',
-        director: 'Viktor Vilks',
-        videoUrl: 'https://youtube.com/embed/yJLTgW-cxHc',
-        aspectRatio: '16-9'
-    },
+    // {
+    //     id: 18,
+    //     image: require('../images/jamala_osen.jpg'),
+    //     alt: 'Jamala',
+    //     artist: 'Jamala',
+    //     title: 'Depends On You',
+    //     director: 'Viktor Vilks',
+    //     videoUrl: 'https://youtube.com/embed/yJLTgW-cxHc',
+    //     aspectRatio: '16-9'
+    // },
     {
         id: 19,
         image: require('../images/touchme.jpg'),
