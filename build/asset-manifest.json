@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3ce92b52.css",
-    "main.js": "/static/js/main.ecf50c3e.js",
+    "main.js": "/static/js/main.d161c848.js",
     "static/js/787.d61a41a6.chunk.js": "/static/js/787.d61a41a6.chunk.js",
     "static/media/Tina_Krasivo.png": "/static/media/Tina_Krasivo.49319b6dfa0e49876bd3.png",
     "static/media/ViaGra_Monster.png": "/static/media/ViaGra_Monster.540b17adfdd414f2f3c1.png",
@@ -11,10 +11,8 @@
     "static/media/Tina_Ptica.png": "/static/media/Tina_Ptica.d0c65f636680ce08110e.png",
     "static/media/proydet.jpg": "/static/media/proydet.23210e755294b3c38bcb.jpg",
     "static/media/still_love.jpg": "/static/media/still_love.951f6a4e54cdf4c5db39.jpg",
-    "static/media/sneg.jpg": "/static/media/sneg.174c3ae98d807b9211d8.jpg",
     "static/media/mayak.jpg": "/static/media/mayak.f9c5a8bf0fc22f2ee33f.jpg",
     "static/media/touchme.jpg": "/static/media/touchme.5259fd65e3d9a63e7140.jpg",
-    "static/media/brosay.jpg": "/static/media/brosay.455708aca9a14ef1e9eb.jpg",
     "static/media/tiodna.jpg": "/static/media/tiodna.479f22e06b513b075d1c.jpg",
     "static/media/TinaKarol_Blindfold.jpg": "/static/media/TinaKarol_Blindfold.2dc58a0823f26b27b9c8.jpg",
     "static/media/prishila.jpg": "/static/media/prishila.ae3f2714b8b9cdd6d0de.jpg",
@@ -23,11 +21,11 @@
     "static/media/Tina_Mnod.jpg": "/static/media/Tina_Mnod.d81acaf56c8e8c0bde18.jpg",
     "index.html": "/index.html",
     "main.3ce92b52.css.map": "/static/css/main.3ce92b52.css.map",
-    "main.ecf50c3e.js.map": "/static/js/main.ecf50c3e.js.map",
+    "main.d161c848.js.map": "/static/js/main.d161c848.js.map",
     "787.d61a41a6.chunk.js.map": "/static/js/787.d61a41a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3ce92b52.css",
-    "static/js/main.ecf50c3e.js"
+    "static/js/main.d161c848.js"
   ]
 }

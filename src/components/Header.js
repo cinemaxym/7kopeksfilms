@@ -10,8 +10,8 @@ function Header() {
             <Container fluid>
                 <Nav className="me-auto">
                     {/* <Nav.Link href="/music-videos"><small>Music Videos</small></Nav.Link>
-                    <Nav.Link href="/live"><small>Live</small></Nav.Link>
-                    <Nav.Link href="info"><small>Info</small></Nav.Link> */}
+                    <Nav.Link href="/live"><small>Live</small></Nav.Link> */}
+                    {/* <Nav.Link href="info"><small>Info</small></Nav.Link> */}
                 </Nav>
             </Container>
         </Navbar>
